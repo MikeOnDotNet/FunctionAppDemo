@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppDemo", "FunctionAppDemo\FunctionAppDemo.csproj", "{C24EBC00-1475-452E-8741-CE1FFBC8F90E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionAppDemo", "FunctionAppDemo\FunctionAppDemo.csproj", "{C24EBC00-1475-452E-8741-CE1FFBC8F90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppDemo-oop", "FunctionAppDemo-oop\FunctionAppDemo-oop.csproj", "{8EC73FC5-711B-4219-8120-4815A51E0AA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C24EBC00-1475-452E-8741-CE1FFBC8F90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C24EBC00-1475-452E-8741-CE1FFBC8F90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C24EBC00-1475-452E-8741-CE1FFBC8F90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC73FC5-711B-4219-8120-4815A51E0AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC73FC5-711B-4219-8120-4815A51E0AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC73FC5-711B-4219-8120-4815A51E0AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC73FC5-711B-4219-8120-4815A51E0AA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
